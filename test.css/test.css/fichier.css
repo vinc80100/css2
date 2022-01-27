@@ -1,0 +1,30 @@
+
+
+.toto
+
+{
+    float:right;
+    display: block;
+    width: 300px;
+    height: 400px;
+    color: rgb(119, 148, 153);
+    background-color: cadetblue;
+}
+
+
+@media screen and (max-width: 768px) 
+{ 
+
+
+.toto
+{
+display: none;
+}
+
+body 
+{font-size: 1.6em;
+    width:auto;
+} 
+
+
+}
